@@ -1,0 +1,601 @@
+Date,Platform,Hashtag,Post Content,Sentiment,Likes,Shares,clean_text,sentiment,VADER_Sentiment
+12-02-2024,Twitter,#CloudComputing,Can anyone recommend good resources for #CloudComputing?,Positive,254,28,anyone recommend good resources cloudcomputing,positive,Positive
+17-09-2024,Instagram,#AI,Not sure I understand #AI. Can someone explain?,Positive,466,51,sure understand ai someone explain,positive,Positive
+28-02-2024,Twitter,#AI,Not sure I understand #AI. Can someone explain?,Negative,169,61,sure understand ai someone explain,positive,Positive
+29-05-2024,Twitter,#Python,Can anyone recommend good resources for #Python?,Positive,89,140,anyone recommend good resources python,positive,Positive
+14-01-2024,Twitter,#CloudComputing,Not sure I understand #CloudComputing. Can someone explain?,Positive,191,191,sure understand cloudcomputing someone explain,positive,Positive
+15-07-2024,Twitter,#AI,Not sure I understand #AI. Can someone explain?,Negative,134,45,sure understand ai someone explain,positive,Positive
+14-05-2024,Instagram,#MachineLearning,Can anyone recommend good resources for #MachineLearning?,Positive,110,143,anyone recommend good resources machinelearning,positive,Positive
+21-10-2024,Reddit,#AI,Not sure I understand #AI. Can someone explain?,Positive,220,71,sure understand ai someone explain,positive,Positive
+09-07-2024,Twitter,#Python,Here's a cool project I did using #Python!,Negative,309,46,heres cool project using python,positive,Positive
+07-03-2024,Reddit,#AI,Can anyone recommend good resources for #AI?,Neutral,433,9,anyone recommend good resources ai,positive,Positive
+31-05-2024,Twitter,#Python,Why is everyone talking about #Python lately?,Neutral,101,46,everyone talking python lately,negative,Neutral
+13-07-2024,Twitter,#Python,Why is everyone talking about #Python lately?,Negative,96,165,everyone talking python lately,negative,Neutral
+08-06-2024,Twitter,#CloudComputing,I love learning about #CloudComputing!,Negative,381,197,love learning cloudcomputing,positive,Positive
+09-02-2024,Instagram,#MachineLearning,Why is everyone talking about #MachineLearning lately?,Positive,272,159,everyone talking machinelearning lately,negative,Neutral
+16-06-2024,Reddit,#CloudComputing,I love learning about #CloudComputing!,Negative,39,198,love learning cloudcomputing,positive,Positive
+21-03-2024,Twitter,#MachineLearning,Not sure I understand #MachineLearning. Can someone explain?,Negative,79,24,sure understand machinelearning someone explain,positive,Positive
+13-07-2024,Twitter,#AI,Here's a cool project I did using #AI!,Negative,185,25,heres cool project using ai,positive,Positive
+26-01-2024,Twitter,#AI,I love learning about #AI!,Positive,64,39,love learning ai,positive,Positive
+26-04-2024,Instagram,#CloudComputing,Not sure I understand #CloudComputing. Can someone explain?,Negative,40,163,sure understand cloudcomputing someone explain,positive,Positive
+04-05-2024,Instagram,#MachineLearning,Here's a cool project I did using #MachineLearning!,Neutral,438,81,heres cool project using machinelearning,positive,Positive
+09-04-2024,Twitter,#AI,Can anyone recommend good resources for #AI?,Negative,351,85,anyone recommend good resources ai,positive,Positive
+10-09-2024,Reddit,#MachineLearning,Here's a cool project I did using #MachineLearning!,Neutral,208,79,heres cool project using machinelearning,positive,Positive
+05-08-2024,Instagram,#MachineLearning,Not sure I understand #MachineLearning. Can someone explain?,Negative,344,173,sure understand machinelearning someone explain,positive,Positive
+31-01-2024,Twitter,#AI,I love learning about #AI!,Positive,47,71,love learning ai,positive,Positive
+24-08-2024,Reddit,#CloudComputing,Not sure I understand #CloudComputing. Can someone explain?,Neutral,473,155,sure understand cloudcomputing someone explain,positive,Positive
+21-05-2024,Twitter,#Python,Why is everyone talking about #Python lately?,Positive,444,170,everyone talking python lately,negative,Neutral
+03-02-2024,Twitter,#AI,I love learning about #AI!,Neutral,389,68,love learning ai,positive,Positive
+10-10-2024,Instagram,#Python,Why is everyone talking about #Python lately?,Negative,484,77,everyone talking python lately,negative,Neutral
+03-09-2024,Reddit,#MachineLearning,Why is everyone talking about #MachineLearning lately?,Positive,118,95,everyone talking machinelearning lately,negative,Neutral
+19-09-2024,Twitter,#Python,Not sure I understand #Python. Can someone explain?,Neutral,222,124,sure understand python someone explain,positive,Positive
+15-09-2024,Instagram,#AI,Not sure I understand #AI. Can someone explain?,Positive,156,2,sure understand ai someone explain,positive,Positive
+11-10-2024,Twitter,#AI,Can anyone recommend good resources for #AI?,Neutral,2,58,anyone recommend good resources ai,positive,Positive
+19-04-2024,Twitter,#AI,I love learning about #AI!,Neutral,36,47,love learning ai,positive,Positive
+07-08-2024,Twitter,#AI,I love learning about #AI!,Negative,156,160,love learning ai,positive,Positive
+30-08-2024,Twitter,#AI,Here's a cool project I did using #AI!,Positive,406,122,heres cool project using ai,positive,Positive
+24-05-2024,Reddit,#MachineLearning,Not sure I understand #MachineLearning. Can someone explain?,Negative,148,72,sure understand machinelearning someone explain,positive,Positive
+03-03-2024,Reddit,#AI,Here's a cool project I did using #AI!,Negative,489,32,heres cool project using ai,positive,Positive
+21-09-2024,Twitter,#MachineLearning,Why is everyone talking about #MachineLearning lately?,Negative,479,147,everyone talking machinelearning lately,negative,Neutral
+15-04-2024,Twitter,#DataScience,Why is everyone talking about #DataScience lately?,Neutral,437,36,everyone talking datascience lately,negative,Neutral
+01-05-2024,Twitter,#MachineLearning,Here's a cool project I did using #MachineLearning!,Neutral,273,81,heres cool project using machinelearning,positive,Positive
+29-01-2024,Instagram,#Python,I love learning about #Python!,Neutral,0,22,love learning python,positive,Positive
+24-06-2024,Instagram,#DataScience,Can anyone recommend good resources for #DataScience?,Positive,420,151,anyone recommend good resources datascience,positive,Positive
+23-03-2024,Reddit,#AI,I love learning about #AI!,Negative,360,103,love learning ai,positive,Positive
+13-02-2024,Instagram,#AI,Why is everyone talking about #AI lately?,Positive,169,35,everyone talking ai lately,negative,Neutral
+12-08-2024,Twitter,#MachineLearning,Not sure I understand #MachineLearning. Can someone explain?,Negative,68,76,sure understand machinelearning someone explain,positive,Positive
+07-08-2024,Reddit,#DataScience,Here's a cool project I did using #DataScience!,Negative,75,63,heres cool project using datascience,positive,Positive
+07-10-2024,Twitter,#DataScience,I love learning about #DataScience!,Neutral,18,24,love learning datascience,positive,Positive
+07-01-2024,Reddit,#CloudComputing,Can anyone recommend good resources for #CloudComputing?,Neutral,416,199,anyone recommend good resources cloudcomputing,positive,Positive
+14-01-2024,Reddit,#MachineLearning,Can anyone recommend good resources for #MachineLearning?,Negative,423,122,anyone recommend good resources machinelearning,positive,Positive
+22-06-2024,Instagram,#Python,Not sure I understand #Python. Can someone explain?,Negative,423,38,sure understand python someone explain,positive,Positive
+18-07-2024,Instagram,#Python,Not sure I understand #Python. Can someone explain?,Positive,93,95,sure understand python someone explain,positive,Positive
+27-06-2024,Instagram,#DataScience,Why is everyone talking about #DataScience lately?,Positive,469,27,everyone talking datascience lately,negative,Neutral
+15-06-2024,Instagram,#DataScience,Here's a cool project I did using #DataScience!,Positive,176,126,heres cool project using datascience,positive,Positive
+02-10-2024,Twitter,#CloudComputing,Not sure I understand #CloudComputing. Can someone explain?,Negative,82,107,sure understand cloudcomputing someone explain,positive,Positive
+18-01-2024,Instagram,#CloudComputing,Not sure I understand #CloudComputing. Can someone explain?,Positive,272,82,sure understand cloudcomputing someone explain,positive,Positive
+30-08-2024,Reddit,#Python,Here's a cool project I did using #Python!,Positive,406,10,heres cool project using python,positive,Positive
+06-02-2024,Instagram,#MachineLearning,Why is everyone talking about #MachineLearning lately?,Neutral,164,180,everyone talking machinelearning lately,negative,Neutral
+02-04-2024,Instagram,#Python,Not sure I understand #Python. Can someone explain?,Negative,391,35,sure understand python someone explain,positive,Positive
+14-10-2024,Reddit,#MachineLearning,I love learning about #MachineLearning!,Neutral,172,157,love learning machinelearning,positive,Positive
+02-07-2024,Instagram,#DataScience,Here's a cool project I did using #DataScience!,Neutral,223,102,heres cool project using datascience,positive,Positive
+06-03-2024,Reddit,#MachineLearning,Here's a cool project I did using #MachineLearning!,Negative,333,107,heres cool project using machinelearning,positive,Positive
+11-01-2024,Reddit,#DataScience,Why is everyone talking about #DataScience lately?,Negative,113,81,everyone talking datascience lately,negative,Neutral
+28-07-2024,Instagram,#MachineLearning,Here's a cool project I did using #MachineLearning!,Positive,20,135,heres cool project using machinelearning,positive,Positive
+11-04-2024,Twitter,#AI,Not sure I understand #AI. Can someone explain?,Negative,22,1,sure understand ai someone explain,positive,Positive
+23-09-2024,Twitter,#Python,Not sure I understand #Python. Can someone explain?,Neutral,206,104,sure understand python someone explain,positive,Positive
+01-03-2024,Instagram,#MachineLearning,Why is everyone talking about #MachineLearning lately?,Negative,51,52,everyone talking machinelearning lately,negative,Neutral
+08-02-2024,Instagram,#DataScience,I love learning about #DataScience!,Positive,369,47,love learning datascience,positive,Positive
+23-09-2024,Reddit,#CloudComputing,Here's a cool project I did using #CloudComputing!,Negative,415,26,heres cool project using cloudcomputing,positive,Positive
+08-06-2024,Reddit,#DataScience,Here's a cool project I did using #DataScience!,Neutral,177,27,heres cool project using datascience,positive,Positive
+30-03-2024,Twitter,#AI,I love learning about #AI!,Neutral,219,198,love learning ai,positive,Positive
+30-04-2024,Reddit,#MachineLearning,I love learning about #MachineLearning!,Negative,36,159,love learning machinelearning,positive,Positive
+21-01-2024,Reddit,#CloudComputing,Not sure I understand #CloudComputing. Can someone explain?,Positive,63,162,sure understand cloudcomputing someone explain,positive,Positive
+12-01-2024,Reddit,#DataScience,Not sure I understand #DataScience. Can someone explain?,Neutral,0,152,sure understand datascience someone explain,positive,Positive
+19-03-2024,Twitter,#AI,Can anyone recommend good resources for #AI?,Neutral,488,176,anyone recommend good resources ai,positive,Positive
+06-09-2024,Instagram,#CloudComputing,I love learning about #CloudComputing!,Positive,228,199,love learning cloudcomputing,positive,Positive
+29-09-2024,Twitter,#MachineLearning,Here's a cool project I did using #MachineLearning!,Positive,316,103,heres cool project using machinelearning,positive,Positive
+31-05-2024,Reddit,#AI,I love learning about #AI!,Neutral,85,169,love learning ai,positive,Positive
+26-05-2024,Reddit,#Python,Not sure I understand #Python. Can someone explain?,Positive,354,152,sure understand python someone explain,positive,Positive
+24-04-2024,Reddit,#MachineLearning,Can anyone recommend good resources for #MachineLearning?,Neutral,376,73,anyone recommend good resources machinelearning,positive,Positive
+04-04-2024,Reddit,#AI,Why is everyone talking about #AI lately?,Negative,456,101,everyone talking ai lately,negative,Neutral
+10-04-2024,Instagram,#DataScience,Not sure I understand #DataScience. Can someone explain?,Positive,119,17,sure understand datascience someone explain,positive,Positive
+23-03-2024,Twitter,#AI,Can anyone recommend good resources for #AI?,Negative,17,91,anyone recommend good resources ai,positive,Positive
+25-01-2024,Twitter,#CloudComputing,I love learning about #CloudComputing!,Neutral,135,160,love learning cloudcomputing,positive,Positive
+06-10-2024,Reddit,#Python,Here's a cool project I did using #Python!,Negative,115,188,heres cool project using python,positive,Positive
+14-05-2024,Reddit,#MachineLearning,Not sure I understand #MachineLearning. Can someone explain?,Positive,35,3,sure understand machinelearning someone explain,positive,Positive
+16-06-2024,Instagram,#AI,I love learning about #AI!,Positive,38,10,love learning ai,positive,Positive
+22-03-2024,Reddit,#AI,I love learning about #AI!,Neutral,173,138,love learning ai,positive,Positive
+15-02-2024,Instagram,#CloudComputing,Here's a cool project I did using #CloudComputing!,Neutral,264,178,heres cool project using cloudcomputing,positive,Positive
+06-04-2024,Instagram,#DataScience,Not sure I understand #DataScience. Can someone explain?,Positive,453,179,sure understand datascience someone explain,positive,Positive
+18-07-2024,Instagram,#AI,Why is everyone talking about #AI lately?,Negative,380,63,everyone talking ai lately,negative,Neutral
+02-01-2024,Reddit,#MachineLearning,Can anyone recommend good resources for #MachineLearning?,Positive,140,10,anyone recommend good resources machinelearning,positive,Positive
+25-09-2024,Twitter,#AI,Not sure I understand #AI. Can someone explain?,Negative,32,159,sure understand ai someone explain,positive,Positive
+28-04-2024,Reddit,#MachineLearning,Can anyone recommend good resources for #MachineLearning?,Negative,455,173,anyone recommend good resources machinelearning,positive,Positive
+15-02-2024,Twitter,#CloudComputing,Here's a cool project I did using #CloudComputing!,Neutral,65,69,heres cool project using cloudcomputing,positive,Positive
+27-08-2024,Instagram,#CloudComputing,Why is everyone talking about #CloudComputing lately?,Positive,315,49,everyone talking cloudcomputing lately,negative,Neutral
+21-05-2024,Twitter,#DataScience,Why is everyone talking about #DataScience lately?,Positive,104,199,everyone talking datascience lately,negative,Neutral
+15-09-2024,Instagram,#AI,Not sure I understand #AI. Can someone explain?,Neutral,156,61,sure understand ai someone explain,positive,Positive
+13-09-2024,Reddit,#Python,Why is everyone talking about #Python lately?,Positive,84,177,everyone talking python lately,negative,Neutral
+23-06-2024,Reddit,#MachineLearning,Why is everyone talking about #MachineLearning lately?,Neutral,186,10,everyone talking machinelearning lately,negative,Neutral
+17-06-2024,Instagram,#DataScience,Why is everyone talking about #DataScience lately?,Negative,499,128,everyone talking datascience lately,negative,Neutral
+18-02-2024,Instagram,#DataScience,Can anyone recommend good resources for #DataScience?,Positive,68,180,anyone recommend good resources datascience,positive,Positive
+22-07-2024,Reddit,#AI,Can anyone recommend good resources for #AI?,Positive,161,100,anyone recommend good resources ai,positive,Positive
+13-06-2024,Twitter,#CloudComputing,Not sure I understand #CloudComputing. Can someone explain?,Neutral,137,23,sure understand cloudcomputing someone explain,positive,Positive
+05-04-2024,Instagram,#CloudComputing,Can anyone recommend good resources for #CloudComputing?,Positive,297,81,anyone recommend good resources cloudcomputing,positive,Positive
+30-09-2024,Twitter,#CloudComputing,Can anyone recommend good resources for #CloudComputing?,Negative,320,166,anyone recommend good resources cloudcomputing,positive,Positive
+19-05-2024,Reddit,#MachineLearning,Not sure I understand #MachineLearning. Can someone explain?,Negative,184,24,sure understand machinelearning someone explain,positive,Positive
+08-07-2024,Twitter,#CloudComputing,Not sure I understand #CloudComputing. Can someone explain?,Positive,37,49,sure understand cloudcomputing someone explain,positive,Positive
+13-03-2024,Reddit,#MachineLearning,I love learning about #MachineLearning!,Neutral,330,111,love learning machinelearning,positive,Positive
+04-08-2024,Twitter,#Python,Not sure I understand #Python. Can someone explain?,Positive,82,48,sure understand python someone explain,positive,Positive
+03-08-2024,Reddit,#Python,Here's a cool project I did using #Python!,Negative,428,71,heres cool project using python,positive,Positive
+17-10-2024,Reddit,#DataScience,Here's a cool project I did using #DataScience!,Negative,44,67,heres cool project using datascience,positive,Positive
+08-09-2024,Twitter,#Python,I love learning about #Python!,Positive,156,70,love learning python,positive,Positive
+30-06-2024,Twitter,#Python,Not sure I understand #Python. Can someone explain?,Positive,96,198,sure understand python someone explain,positive,Positive
+02-06-2024,Reddit,#Python,Can anyone recommend good resources for #Python?,Positive,479,126,anyone recommend good resources python,positive,Positive
+18-03-2024,Reddit,#DataScience,I love learning about #DataScience!,Negative,157,182,love learning datascience,positive,Positive
+30-06-2024,Reddit,#MachineLearning,Here's a cool project I did using #MachineLearning!,Positive,184,40,heres cool project using machinelearning,positive,Positive
+29-06-2024,Twitter,#AI,Can anyone recommend good resources for #AI?,Neutral,95,88,anyone recommend good resources ai,positive,Positive
+08-06-2024,Reddit,#DataScience,Why is everyone talking about #DataScience lately?,Neutral,296,189,everyone talking datascience lately,negative,Neutral
+01-05-2024,Twitter,#DataScience,Not sure I understand #DataScience. Can someone explain?,Neutral,123,102,sure understand datascience someone explain,positive,Positive
+23-10-2024,Twitter,#DataScience,Why is everyone talking about #DataScience lately?,Negative,336,7,everyone talking datascience lately,negative,Neutral
+06-06-2024,Twitter,#DataScience,I love learning about #DataScience!,Positive,97,86,love learning datascience,positive,Positive
+07-09-2024,Instagram,#CloudComputing,Not sure I understand #CloudComputing. Can someone explain?,Negative,75,1,sure understand cloudcomputing someone explain,positive,Positive
+15-09-2024,Instagram,#Python,Not sure I understand #Python. Can someone explain?,Negative,230,195,sure understand python someone explain,positive,Positive
+02-02-2024,Reddit,#CloudComputing,Not sure I understand #CloudComputing. Can someone explain?,Neutral,298,148,sure understand cloudcomputing someone explain,positive,Positive
+25-01-2024,Reddit,#MachineLearning,I love learning about #MachineLearning!,Positive,267,141,love learning machinelearning,positive,Positive
+20-01-2024,Reddit,#MachineLearning,Not sure I understand #MachineLearning. Can someone explain?,Positive,86,7,sure understand machinelearning someone explain,positive,Positive
+24-05-2024,Twitter,#CloudComputing,Why is everyone talking about #CloudComputing lately?,Neutral,265,28,everyone talking cloudcomputing lately,negative,Neutral
+07-08-2024,Instagram,#Python,Not sure I understand #Python. Can someone explain?,Positive,40,155,sure understand python someone explain,positive,Positive
+12-04-2024,Instagram,#DataScience,I love learning about #DataScience!,Neutral,444,125,love learning datascience,positive,Positive
+28-08-2024,Instagram,#DataScience,Not sure I understand #DataScience. Can someone explain?,Neutral,264,22,sure understand datascience someone explain,positive,Positive
+03-06-2024,Twitter,#MachineLearning,Why is everyone talking about #MachineLearning lately?,Positive,172,32,everyone talking machinelearning lately,negative,Neutral
+23-01-2024,Instagram,#AI,Can anyone recommend good resources for #AI?,Neutral,480,46,anyone recommend good resources ai,positive,Positive
+22-02-2024,Instagram,#MachineLearning,Not sure I understand #MachineLearning. Can someone explain?,Positive,114,17,sure understand machinelearning someone explain,positive,Positive
+07-06-2024,Twitter,#DataScience,Why is everyone talking about #DataScience lately?,Negative,72,8,everyone talking datascience lately,negative,Neutral
+03-08-2024,Reddit,#Python,Why is everyone talking about #Python lately?,Neutral,455,30,everyone talking python lately,negative,Neutral
+03-05-2024,Twitter,#CloudComputing,Why is everyone talking about #CloudComputing lately?,Negative,207,20,everyone talking cloudcomputing lately,negative,Neutral
+24-08-2024,Reddit,#Python,Not sure I understand #Python. Can someone explain?,Negative,392,153,sure understand python someone explain,positive,Positive
+24-03-2024,Twitter,#CloudComputing,Why is everyone talking about #CloudComputing lately?,Negative,258,105,everyone talking cloudcomputing lately,negative,Neutral
+18-08-2024,Twitter,#MachineLearning,Why is everyone talking about #MachineLearning lately?,Neutral,215,125,everyone talking machinelearning lately,negative,Neutral
+05-04-2024,Twitter,#MachineLearning,Why is everyone talking about #MachineLearning lately?,Positive,125,23,everyone talking machinelearning lately,negative,Neutral
+23-04-2024,Reddit,#DataScience,Not sure I understand #DataScience. Can someone explain?,Neutral,500,15,sure understand datascience someone explain,positive,Positive
+12-04-2024,Twitter,#DataScience,Why is everyone talking about #DataScience lately?,Negative,293,57,everyone talking datascience lately,negative,Neutral
+06-08-2024,Twitter,#MachineLearning,Why is everyone talking about #MachineLearning lately?,Positive,63,120,everyone talking machinelearning lately,negative,Neutral
+11-02-2024,Instagram,#DataScience,Why is everyone talking about #DataScience lately?,Negative,313,36,everyone talking datascience lately,negative,Neutral
+28-07-2024,Instagram,#AI,Here's a cool project I did using #AI!,Positive,402,186,heres cool project using ai,positive,Positive
+27-02-2024,Twitter,#CloudComputing,Here's a cool project I did using #CloudComputing!,Positive,179,60,heres cool project using cloudcomputing,positive,Positive
+10-06-2024,Instagram,#DataScience,Can anyone recommend good resources for #DataScience?,Positive,441,4,anyone recommend good resources datascience,positive,Positive
+20-04-2024,Twitter,#AI,I love learning about #AI!,Positive,95,24,love learning ai,positive,Positive
+09-01-2024,Twitter,#MachineLearning,Why is everyone talking about #MachineLearning lately?,Positive,392,67,everyone talking machinelearning lately,negative,Neutral
+10-01-2024,Reddit,#CloudComputing,I love learning about #CloudComputing!,Positive,22,119,love learning cloudcomputing,positive,Positive
+24-09-2024,Instagram,#CloudComputing,Can anyone recommend good resources for #CloudComputing?,Positive,8,178,anyone recommend good resources cloudcomputing,positive,Positive
+11-05-2024,Instagram,#Python,Not sure I understand #Python. Can someone explain?,Neutral,394,86,sure understand python someone explain,positive,Positive
+12-07-2024,Instagram,#Python,I love learning about #Python!,Neutral,247,48,love learning python,positive,Positive
+28-08-2024,Reddit,#AI,Not sure I understand #AI. Can someone explain?,Positive,426,118,sure understand ai someone explain,positive,Positive
+03-01-2024,Instagram,#Python,Can anyone recommend good resources for #Python?,Positive,92,115,anyone recommend good resources python,positive,Positive
+23-05-2024,Instagram,#MachineLearning,Why is everyone talking about #MachineLearning lately?,Negative,164,197,everyone talking machinelearning lately,negative,Neutral
+14-07-2024,Twitter,#DataScience,Can anyone recommend good resources for #DataScience?,Negative,102,143,anyone recommend good resources datascience,positive,Positive
+25-10-2024,Instagram,#DataScience,Not sure I understand #DataScience. Can someone explain?,Negative,410,187,sure understand datascience someone explain,positive,Positive
+03-02-2024,Twitter,#MachineLearning,I love learning about #MachineLearning!,Neutral,322,0,love learning machinelearning,positive,Positive
+23-02-2024,Twitter,#DataScience,I love learning about #DataScience!,Positive,363,178,love learning datascience,positive,Positive
+21-09-2024,Instagram,#Python,I love learning about #Python!,Positive,353,117,love learning python,positive,Positive
+05-09-2024,Reddit,#DataScience,I love learning about #DataScience!,Positive,211,101,love learning datascience,positive,Positive
+23-07-2024,Twitter,#MachineLearning,Can anyone recommend good resources for #MachineLearning?,Positive,344,134,anyone recommend good resources machinelearning,positive,Positive
+11-06-2024,Twitter,#DataScience,I love learning about #DataScience!,Negative,354,161,love learning datascience,positive,Positive
+03-07-2024,Instagram,#CloudComputing,Here's a cool project I did using #CloudComputing!,Neutral,474,169,heres cool project using cloudcomputing,positive,Positive
+19-10-2024,Twitter,#MachineLearning,Here's a cool project I did using #MachineLearning!,Negative,491,58,heres cool project using machinelearning,positive,Positive
+01-05-2024,Instagram,#MachineLearning,Here's a cool project I did using #MachineLearning!,Neutral,292,197,heres cool project using machinelearning,positive,Positive
+12-08-2024,Reddit,#CloudComputing,Can anyone recommend good resources for #CloudComputing?,Neutral,498,60,anyone recommend good resources cloudcomputing,positive,Positive
+06-01-2024,Instagram,#AI,Can anyone recommend good resources for #AI?,Neutral,301,109,anyone recommend good resources ai,positive,Positive
+08-01-2024,Reddit,#AI,I love learning about #AI!,Negative,136,164,love learning ai,positive,Positive
+08-03-2024,Reddit,#Python,I love learning about #Python!,Positive,293,107,love learning python,positive,Positive
+17-02-2024,Reddit,#Python,Not sure I understand #Python. Can someone explain?,Neutral,104,168,sure understand python someone explain,positive,Positive
+20-04-2024,Reddit,#Python,I love learning about #Python!,Negative,298,115,love learning python,positive,Positive
+09-04-2024,Reddit,#Python,Can anyone recommend good resources for #Python?,Negative,389,86,anyone recommend good resources python,positive,Positive
+15-05-2024,Twitter,#AI,Here's a cool project I did using #AI!,Positive,33,72,heres cool project using ai,positive,Positive
+25-09-2024,Twitter,#CloudComputing,I love learning about #CloudComputing!,Negative,269,53,love learning cloudcomputing,positive,Positive
+04-01-2024,Twitter,#Python,Here's a cool project I did using #Python!,Neutral,99,97,heres cool project using python,positive,Positive
+09-01-2024,Instagram,#MachineLearning,Why is everyone talking about #MachineLearning lately?,Positive,108,131,everyone talking machinelearning lately,negative,Neutral
+26-10-2024,Reddit,#DataScience,Why is everyone talking about #DataScience lately?,Negative,440,114,everyone talking datascience lately,negative,Neutral
+13-07-2024,Instagram,#AI,Not sure I understand #AI. Can someone explain?,Negative,32,150,sure understand ai someone explain,positive,Positive
+13-01-2024,Reddit,#Python,I love learning about #Python!,Neutral,500,113,love learning python,positive,Positive
+16-09-2024,Instagram,#CloudComputing,Can anyone recommend good resources for #CloudComputing?,Negative,133,61,anyone recommend good resources cloudcomputing,positive,Positive
+03-05-2024,Reddit,#AI,Here's a cool project I did using #AI!,Neutral,33,66,heres cool project using ai,positive,Positive
+09-05-2024,Reddit,#AI,Not sure I understand #AI. Can someone explain?,Neutral,215,14,sure understand ai someone explain,positive,Positive
+31-08-2024,Reddit,#Python,I love learning about #Python!,Positive,80,127,love learning python,positive,Positive
+21-05-2024,Instagram,#AI,Not sure I understand #AI. Can someone explain?,Positive,140,188,sure understand ai someone explain,positive,Positive
+24-08-2024,Twitter,#AI,Not sure I understand #AI. Can someone explain?,Neutral,30,3,sure understand ai someone explain,positive,Positive
+16-06-2024,Twitter,#DataScience,Not sure I understand #DataScience. Can someone explain?,Negative,130,199,sure understand datascience someone explain,positive,Positive
+19-06-2024,Instagram,#Python,Not sure I understand #Python. Can someone explain?,Neutral,472,47,sure understand python someone explain,positive,Positive
+06-10-2024,Instagram,#CloudComputing,Can anyone recommend good resources for #CloudComputing?,Positive,463,106,anyone recommend good resources cloudcomputing,positive,Positive
+08-09-2024,Twitter,#DataScience,Here's a cool project I did using #DataScience!,Negative,293,178,heres cool project using datascience,positive,Positive
+21-01-2024,Instagram,#AI,Not sure I understand #AI. Can someone explain?,Neutral,130,22,sure understand ai someone explain,positive,Positive
+26-09-2024,Twitter,#DataScience,Not sure I understand #DataScience. Can someone explain?,Neutral,156,11,sure understand datascience someone explain,positive,Positive
+10-02-2024,Instagram,#CloudComputing,Can anyone recommend good resources for #CloudComputing?,Neutral,97,200,anyone recommend good resources cloudcomputing,positive,Positive
+07-01-2024,Reddit,#CloudComputing,Can anyone recommend good resources for #CloudComputing?,Positive,169,9,anyone recommend good resources cloudcomputing,positive,Positive
+07-05-2024,Reddit,#AI,I love learning about #AI!,Positive,440,7,love learning ai,positive,Positive
+17-07-2024,Instagram,#AI,Here's a cool project I did using #AI!,Negative,287,133,heres cool project using ai,positive,Positive
+18-06-2024,Reddit,#DataScience,Not sure I understand #DataScience. Can someone explain?,Negative,452,142,sure understand datascience someone explain,positive,Positive
+23-05-2024,Twitter,#Python,I love learning about #Python!,Positive,427,9,love learning python,positive,Positive
+04-04-2024,Reddit,#AI,I love learning about #AI!,Neutral,261,110,love learning ai,positive,Positive
+10-03-2024,Reddit,#AI,Why is everyone talking about #AI lately?,Negative,272,115,everyone talking ai lately,negative,Neutral
+22-02-2024,Twitter,#CloudComputing,I love learning about #CloudComputing!,Neutral,356,197,love learning cloudcomputing,positive,Positive
+30-06-2024,Reddit,#Python,I love learning about #Python!,Positive,190,160,love learning python,positive,Positive
+04-01-2024,Twitter,#AI,Why is everyone talking about #AI lately?,Positive,248,94,everyone talking ai lately,negative,Neutral
+04-01-2024,Instagram,#CloudComputing,Here's a cool project I did using #CloudComputing!,Neutral,134,171,heres cool project using cloudcomputing,positive,Positive
+01-10-2024,Reddit,#Python,I love learning about #Python!,Neutral,139,77,love learning python,positive,Positive
+08-07-2024,Twitter,#AI,Can anyone recommend good resources for #AI?,Positive,157,52,anyone recommend good resources ai,positive,Positive
+21-09-2024,Instagram,#Python,Can anyone recommend good resources for #Python?,Neutral,191,159,anyone recommend good resources python,positive,Positive
+18-01-2024,Instagram,#AI,Can anyone recommend good resources for #AI?,Negative,249,25,anyone recommend good resources ai,positive,Positive
+25-09-2024,Reddit,#CloudComputing,Not sure I understand #CloudComputing. Can someone explain?,Neutral,9,5,sure understand cloudcomputing someone explain,positive,Positive
+22-09-2024,Twitter,#AI,Not sure I understand #AI. Can someone explain?,Positive,157,82,sure understand ai someone explain,positive,Positive
+02-05-2024,Reddit,#MachineLearning,Can anyone recommend good resources for #MachineLearning?,Negative,175,149,anyone recommend good resources machinelearning,positive,Positive
+05-02-2024,Instagram,#Python,Not sure I understand #Python. Can someone explain?,Positive,116,69,sure understand python someone explain,positive,Positive
+13-04-2024,Reddit,#Python,Can anyone recommend good resources for #Python?,Positive,113,79,anyone recommend good resources python,positive,Positive
+23-02-2024,Instagram,#CloudComputing,I love learning about #CloudComputing!,Negative,297,23,love learning cloudcomputing,positive,Positive
+12-05-2024,Instagram,#Python,I love learning about #Python!,Neutral,329,22,love learning python,positive,Positive
+12-05-2024,Instagram,#Python,I love learning about #Python!,Positive,94,186,love learning python,positive,Positive
+08-03-2024,Twitter,#CloudComputing,Can anyone recommend good resources for #CloudComputing?,Positive,384,21,anyone recommend good resources cloudcomputing,positive,Positive
+10-10-2024,Instagram,#CloudComputing,I love learning about #CloudComputing!,Negative,308,164,love learning cloudcomputing,positive,Positive
+17-04-2024,Instagram,#CloudComputing,Can anyone recommend good resources for #CloudComputing?,Positive,323,109,anyone recommend good resources cloudcomputing,positive,Positive
+05-02-2024,Instagram,#Python,Why is everyone talking about #Python lately?,Negative,391,143,everyone talking python lately,negative,Neutral
+20-08-2024,Reddit,#DataScience,Here's a cool project I did using #DataScience!,Positive,133,145,heres cool project using datascience,positive,Positive
+18-10-2024,Reddit,#DataScience,I love learning about #DataScience!,Neutral,292,96,love learning datascience,positive,Positive
+11-08-2024,Instagram,#CloudComputing,Not sure I understand #CloudComputing. Can someone explain?,Positive,41,133,sure understand cloudcomputing someone explain,positive,Positive
+02-02-2024,Twitter,#Python,Not sure I understand #Python. Can someone explain?,Neutral,299,17,sure understand python someone explain,positive,Positive
+23-08-2024,Reddit,#DataScience,Why is everyone talking about #DataScience lately?,Positive,469,78,everyone talking datascience lately,negative,Neutral
+06-04-2024,Twitter,#DataScience,Not sure I understand #DataScience. Can someone explain?,Negative,308,158,sure understand datascience someone explain,positive,Positive
+23-07-2024,Instagram,#MachineLearning,Not sure I understand #MachineLearning. Can someone explain?,Positive,318,94,sure understand machinelearning someone explain,positive,Positive
+13-01-2024,Twitter,#DataScience,Here's a cool project I did using #DataScience!,Positive,191,104,heres cool project using datascience,positive,Positive
+26-08-2024,Twitter,#AI,Can anyone recommend good resources for #AI?,Neutral,220,83,anyone recommend good resources ai,positive,Positive
+10-04-2024,Reddit,#DataScience,Why is everyone talking about #DataScience lately?,Negative,360,42,everyone talking datascience lately,negative,Neutral
+03-01-2024,Twitter,#DataScience,Not sure I understand #DataScience. Can someone explain?,Positive,309,25,sure understand datascience someone explain,positive,Positive
+09-02-2024,Reddit,#AI,I love learning about #AI!,Neutral,489,64,love learning ai,positive,Positive
+13-10-2024,Instagram,#DataScience,Not sure I understand #DataScience. Can someone explain?,Neutral,430,101,sure understand datascience someone explain,positive,Positive
+28-01-2024,Reddit,#DataScience,I love learning about #DataScience!,Negative,287,133,love learning datascience,positive,Positive
+15-07-2024,Reddit,#CloudComputing,Here's a cool project I did using #CloudComputing!,Neutral,56,17,heres cool project using cloudcomputing,positive,Positive
+02-03-2024,Instagram,#DataScience,Can anyone recommend good resources for #DataScience?,Positive,145,148,anyone recommend good resources datascience,positive,Positive
+03-07-2024,Reddit,#Python,I love learning about #Python!,Positive,448,77,love learning python,positive,Positive
+27-02-2024,Reddit,#Python,Here's a cool project I did using #Python!,Negative,137,20,heres cool project using python,positive,Positive
+05-04-2024,Reddit,#MachineLearning,Can anyone recommend good resources for #MachineLearning?,Positive,141,118,anyone recommend good resources machinelearning,positive,Positive
+09-03-2024,Reddit,#Python,Here's a cool project I did using #Python!,Negative,155,122,heres cool project using python,positive,Positive
+12-04-2024,Twitter,#AI,Why is everyone talking about #AI lately?,Positive,204,92,everyone talking ai lately,negative,Neutral
+21-05-2024,Reddit,#Python,Can anyone recommend good resources for #Python?,Positive,11,39,anyone recommend good resources python,positive,Positive
+14-08-2024,Twitter,#Python,Why is everyone talking about #Python lately?,Positive,344,80,everyone talking python lately,negative,Neutral
+29-01-2024,Reddit,#MachineLearning,Can anyone recommend good resources for #MachineLearning?,Neutral,390,195,anyone recommend good resources machinelearning,positive,Positive
+22-08-2024,Instagram,#AI,Why is everyone talking about #AI lately?,Neutral,128,53,everyone talking ai lately,negative,Neutral
+04-05-2024,Instagram,#MachineLearning,Here's a cool project I did using #MachineLearning!,Positive,105,64,heres cool project using machinelearning,positive,Positive
+15-08-2024,Twitter,#Python,Why is everyone talking about #Python lately?,Negative,59,87,everyone talking python lately,negative,Neutral
+18-06-2024,Instagram,#CloudComputing,Can anyone recommend good resources for #CloudComputing?,Negative,311,102,anyone recommend good resources cloudcomputing,positive,Positive
+27-04-2024,Twitter,#MachineLearning,Can anyone recommend good resources for #MachineLearning?,Positive,262,179,anyone recommend good resources machinelearning,positive,Positive
+25-01-2024,Instagram,#Python,Not sure I understand #Python. Can someone explain?,Positive,319,1,sure understand python someone explain,positive,Positive
+28-06-2024,Instagram,#DataScience,Not sure I understand #DataScience. Can someone explain?,Neutral,387,3,sure understand datascience someone explain,positive,Positive
+02-07-2024,Reddit,#DataScience,Here's a cool project I did using #DataScience!,Negative,492,44,heres cool project using datascience,positive,Positive
+31-08-2024,Twitter,#CloudComputing,Why is everyone talking about #CloudComputing lately?,Negative,471,45,everyone talking cloudcomputing lately,negative,Neutral
+23-01-2024,Instagram,#CloudComputing,Can anyone recommend good resources for #CloudComputing?,Negative,330,109,anyone recommend good resources cloudcomputing,positive,Positive
+29-05-2024,Twitter,#CloudComputing,I love learning about #CloudComputing!,Negative,233,129,love learning cloudcomputing,positive,Positive
+09-10-2024,Twitter,#AI,Why is everyone talking about #AI lately?,Positive,147,109,everyone talking ai lately,negative,Neutral
+09-03-2024,Instagram,#AI,I love learning about #AI!,Positive,192,154,love learning ai,positive,Positive
+29-09-2024,Reddit,#AI,Why is everyone talking about #AI lately?,Neutral,288,41,everyone talking ai lately,negative,Neutral
+07-10-2024,Reddit,#MachineLearning,Can anyone recommend good resources for #MachineLearning?,Negative,402,193,anyone recommend good resources machinelearning,positive,Positive
+18-10-2024,Instagram,#Python,Why is everyone talking about #Python lately?,Neutral,193,112,everyone talking python lately,negative,Neutral
+15-08-2024,Instagram,#DataScience,Here's a cool project I did using #DataScience!,Neutral,452,81,heres cool project using datascience,positive,Positive
+16-01-2024,Twitter,#AI,I love learning about #AI!,Positive,133,35,love learning ai,positive,Positive
+24-07-2024,Instagram,#Python,Why is everyone talking about #Python lately?,Neutral,187,16,everyone talking python lately,negative,Neutral
+15-09-2024,Instagram,#CloudComputing,Can anyone recommend good resources for #CloudComputing?,Negative,331,150,anyone recommend good resources cloudcomputing,positive,Positive
+25-08-2024,Twitter,#AI,Here's a cool project I did using #AI!,Neutral,124,153,heres cool project using ai,positive,Positive
+01-04-2024,Reddit,#AI,Here's a cool project I did using #AI!,Negative,39,74,heres cool project using ai,positive,Positive
+22-03-2024,Instagram,#MachineLearning,Can anyone recommend good resources for #MachineLearning?,Neutral,357,196,anyone recommend good resources machinelearning,positive,Positive
+26-06-2024,Instagram,#Python,Here's a cool project I did using #Python!,Neutral,361,18,heres cool project using python,positive,Positive
+07-04-2024,Reddit,#DataScience,Not sure I understand #DataScience. Can someone explain?,Neutral,381,66,sure understand datascience someone explain,positive,Positive
+20-02-2024,Instagram,#AI,Not sure I understand #AI. Can someone explain?,Positive,9,141,sure understand ai someone explain,positive,Positive
+14-06-2024,Twitter,#AI,I love learning about #AI!,Positive,43,174,love learning ai,positive,Positive
+02-01-2024,Instagram,#Python,I love learning about #Python!,Neutral,420,98,love learning python,positive,Positive
+28-04-2024,Instagram,#MachineLearning,Not sure I understand #MachineLearning. Can someone explain?,Negative,80,125,sure understand machinelearning someone explain,positive,Positive
+17-06-2024,Twitter,#DataScience,Not sure I understand #DataScience. Can someone explain?,Negative,327,106,sure understand datascience someone explain,positive,Positive
+25-01-2024,Reddit,#DataScience,I love learning about #DataScience!,Negative,263,93,love learning datascience,positive,Positive
+25-01-2024,Instagram,#Python,Here's a cool project I did using #Python!,Negative,20,145,heres cool project using python,positive,Positive
+13-06-2024,Twitter,#Python,Here's a cool project I did using #Python!,Neutral,71,77,heres cool project using python,positive,Positive
+10-04-2024,Instagram,#DataScience,I love learning about #DataScience!,Negative,450,181,love learning datascience,positive,Positive
+23-05-2024,Twitter,#AI,Not sure I understand #AI. Can someone explain?,Neutral,169,35,sure understand ai someone explain,positive,Positive
+05-08-2024,Reddit,#DataScience,Can anyone recommend good resources for #DataScience?,Neutral,264,35,anyone recommend good resources datascience,positive,Positive
+09-06-2024,Reddit,#CloudComputing,Here's a cool project I did using #CloudComputing!,Neutral,486,63,heres cool project using cloudcomputing,positive,Positive
+09-10-2024,Twitter,#AI,Here's a cool project I did using #AI!,Neutral,19,143,heres cool project using ai,positive,Positive
+30-01-2024,Instagram,#DataScience,Why is everyone talking about #DataScience lately?,Neutral,121,20,everyone talking datascience lately,negative,Neutral
+13-06-2024,Reddit,#AI,Here's a cool project I did using #AI!,Negative,126,175,heres cool project using ai,positive,Positive
+10-01-2024,Twitter,#CloudComputing,I love learning about #CloudComputing!,Positive,147,148,love learning cloudcomputing,positive,Positive
+29-01-2024,Reddit,#Python,Can anyone recommend good resources for #Python?,Positive,432,101,anyone recommend good resources python,positive,Positive
+11-02-2024,Reddit,#AI,Not sure I understand #AI. Can someone explain?,Negative,474,47,sure understand ai someone explain,positive,Positive
+13-09-2024,Instagram,#MachineLearning,Not sure I understand #MachineLearning. Can someone explain?,Positive,141,144,sure understand machinelearning someone explain,positive,Positive
+16-09-2024,Instagram,#CloudComputing,Why is everyone talking about #CloudComputing lately?,Negative,424,133,everyone talking cloudcomputing lately,negative,Neutral
+19-07-2024,Instagram,#CloudComputing,I love learning about #CloudComputing!,Negative,96,137,love learning cloudcomputing,positive,Positive
+24-02-2024,Instagram,#CloudComputing,I love learning about #CloudComputing!,Positive,10,36,love learning cloudcomputing,positive,Positive
+26-07-2024,Instagram,#MachineLearning,Why is everyone talking about #MachineLearning lately?,Positive,401,51,everyone talking machinelearning lately,negative,Neutral
+29-03-2024,Twitter,#CloudComputing,Not sure I understand #CloudComputing. Can someone explain?,Negative,60,90,sure understand cloudcomputing someone explain,positive,Positive
+27-08-2024,Twitter,#CloudComputing,Not sure I understand #CloudComputing. Can someone explain?,Negative,313,146,sure understand cloudcomputing someone explain,positive,Positive
+12-03-2024,Reddit,#DataScience,I love learning about #DataScience!,Positive,46,82,love learning datascience,positive,Positive
+17-08-2024,Twitter,#DataScience,Here's a cool project I did using #DataScience!,Positive,182,197,heres cool project using datascience,positive,Positive
+06-02-2024,Twitter,#MachineLearning,Here's a cool project I did using #MachineLearning!,Negative,348,41,heres cool project using machinelearning,positive,Positive
+03-02-2024,Twitter,#MachineLearning,Can anyone recommend good resources for #MachineLearning?,Neutral,24,40,anyone recommend good resources machinelearning,positive,Positive
+28-08-2024,Twitter,#CloudComputing,Why is everyone talking about #CloudComputing lately?,Positive,96,139,everyone talking cloudcomputing lately,negative,Neutral
+30-03-2024,Instagram,#AI,Can anyone recommend good resources for #AI?,Negative,399,53,anyone recommend good resources ai,positive,Positive
+24-10-2024,Instagram,#MachineLearning,Why is everyone talking about #MachineLearning lately?,Neutral,48,43,everyone talking machinelearning lately,negative,Neutral
+08-08-2024,Twitter,#MachineLearning,Here's a cool project I did using #MachineLearning!,Neutral,277,83,heres cool project using machinelearning,positive,Positive
+19-08-2024,Twitter,#Python,Here's a cool project I did using #Python!,Positive,269,63,heres cool project using python,positive,Positive
+21-01-2024,Twitter,#AI,Why is everyone talking about #AI lately?,Neutral,234,97,everyone talking ai lately,negative,Neutral
+13-06-2024,Reddit,#AI,Why is everyone talking about #AI lately?,Neutral,27,183,everyone talking ai lately,negative,Neutral
+12-08-2024,Reddit,#Python,Why is everyone talking about #Python lately?,Negative,408,98,everyone talking python lately,negative,Neutral
+11-02-2024,Reddit,#DataScience,Here's a cool project I did using #DataScience!,Negative,102,173,heres cool project using datascience,positive,Positive
+07-05-2024,Instagram,#Python,I love learning about #Python!,Positive,446,166,love learning python,positive,Positive
+15-09-2024,Twitter,#DataScience,Why is everyone talking about #DataScience lately?,Neutral,467,19,everyone talking datascience lately,negative,Neutral
+28-01-2024,Reddit,#Python,Can anyone recommend good resources for #Python?,Positive,296,167,anyone recommend good resources python,positive,Positive
+08-02-2024,Instagram,#Python,Can anyone recommend good resources for #Python?,Neutral,45,162,anyone recommend good resources python,positive,Positive
+17-08-2024,Instagram,#Python,Why is everyone talking about #Python lately?,Negative,232,48,everyone talking python lately,negative,Neutral
+20-02-2024,Twitter,#AI,Can anyone recommend good resources for #AI?,Neutral,23,185,anyone recommend good resources ai,positive,Positive
+18-02-2024,Twitter,#Python,I love learning about #Python!,Negative,423,36,love learning python,positive,Positive
+17-06-2024,Twitter,#AI,Can anyone recommend good resources for #AI?,Neutral,184,35,anyone recommend good resources ai,positive,Positive
+20-08-2024,Reddit,#CloudComputing,I love learning about #CloudComputing!,Neutral,44,75,love learning cloudcomputing,positive,Positive
+02-04-2024,Instagram,#MachineLearning,I love learning about #MachineLearning!,Neutral,177,69,love learning machinelearning,positive,Positive
+08-09-2024,Reddit,#MachineLearning,Here's a cool project I did using #MachineLearning!,Positive,484,2,heres cool project using machinelearning,positive,Positive
+29-05-2024,Twitter,#Python,I love learning about #Python!,Neutral,17,43,love learning python,positive,Positive
+25-03-2024,Reddit,#Python,Why is everyone talking about #Python lately?,Positive,382,28,everyone talking python lately,negative,Neutral
+04-04-2024,Instagram,#DataScience,I love learning about #DataScience!,Negative,128,2,love learning datascience,positive,Positive
+28-08-2024,Instagram,#CloudComputing,Can anyone recommend good resources for #CloudComputing?,Neutral,2,13,anyone recommend good resources cloudcomputing,positive,Positive
+15-04-2024,Reddit,#AI,Why is everyone talking about #AI lately?,Positive,145,104,everyone talking ai lately,negative,Neutral
+07-09-2024,Twitter,#Python,Not sure I understand #Python. Can someone explain?,Positive,6,145,sure understand python someone explain,positive,Positive
+19-03-2024,Twitter,#MachineLearning,Here's a cool project I did using #MachineLearning!,Negative,307,32,heres cool project using machinelearning,positive,Positive
+21-03-2024,Instagram,#AI,Not sure I understand #AI. Can someone explain?,Positive,152,6,sure understand ai someone explain,positive,Positive
+23-07-2024,Twitter,#CloudComputing,Not sure I understand #CloudComputing. Can someone explain?,Neutral,103,53,sure understand cloudcomputing someone explain,positive,Positive
+03-02-2024,Instagram,#Python,Not sure I understand #Python. Can someone explain?,Negative,330,6,sure understand python someone explain,positive,Positive
+12-07-2024,Instagram,#DataScience,Why is everyone talking about #DataScience lately?,Neutral,316,49,everyone talking datascience lately,negative,Neutral
+12-05-2024,Twitter,#DataScience,Not sure I understand #DataScience. Can someone explain?,Positive,417,152,sure understand datascience someone explain,positive,Positive
+10-05-2024,Instagram,#AI,I love learning about #AI!,Positive,406,191,love learning ai,positive,Positive
+14-04-2024,Instagram,#MachineLearning,Why is everyone talking about #MachineLearning lately?,Positive,59,5,everyone talking machinelearning lately,negative,Neutral
+10-04-2024,Instagram,#DataScience,I love learning about #DataScience!,Negative,359,17,love learning datascience,positive,Positive
+09-04-2024,Instagram,#CloudComputing,Why is everyone talking about #CloudComputing lately?,Neutral,461,151,everyone talking cloudcomputing lately,negative,Neutral
+25-07-2024,Twitter,#MachineLearning,Not sure I understand #MachineLearning. Can someone explain?,Negative,271,134,sure understand machinelearning someone explain,positive,Positive
+13-01-2024,Instagram,#AI,Can anyone recommend good resources for #AI?,Neutral,59,36,anyone recommend good resources ai,positive,Positive
+27-03-2024,Instagram,#CloudComputing,Here's a cool project I did using #CloudComputing!,Positive,135,187,heres cool project using cloudcomputing,positive,Positive
+15-06-2024,Instagram,#CloudComputing,Why is everyone talking about #CloudComputing lately?,Neutral,189,99,everyone talking cloudcomputing lately,negative,Neutral
+27-08-2024,Twitter,#CloudComputing,Why is everyone talking about #CloudComputing lately?,Neutral,81,76,everyone talking cloudcomputing lately,negative,Neutral
+03-07-2024,Reddit,#Python,Not sure I understand #Python. Can someone explain?,Neutral,150,159,sure understand python someone explain,positive,Positive
+23-01-2024,Twitter,#AI,Can anyone recommend good resources for #AI?,Positive,469,197,anyone recommend good resources ai,positive,Positive
+03-07-2024,Reddit,#MachineLearning,I love learning about #MachineLearning!,Positive,91,160,love learning machinelearning,positive,Positive
+28-04-2024,Reddit,#Python,I love learning about #Python!,Negative,54,57,love learning python,positive,Positive
+08-05-2024,Twitter,#Python,Not sure I understand #Python. Can someone explain?,Neutral,242,108,sure understand python someone explain,positive,Positive
+19-08-2024,Twitter,#CloudComputing,Not sure I understand #CloudComputing. Can someone explain?,Neutral,322,1,sure understand cloudcomputing someone explain,positive,Positive
+19-07-2024,Twitter,#AI,Why is everyone talking about #AI lately?,Neutral,442,169,everyone talking ai lately,negative,Neutral
+23-08-2024,Twitter,#MachineLearning,Can anyone recommend good resources for #MachineLearning?,Neutral,60,69,anyone recommend good resources machinelearning,positive,Positive
+13-03-2024,Reddit,#CloudComputing,Why is everyone talking about #CloudComputing lately?,Neutral,251,90,everyone talking cloudcomputing lately,negative,Neutral
+11-09-2024,Reddit,#DataScience,Can anyone recommend good resources for #DataScience?,Neutral,235,55,anyone recommend good resources datascience,positive,Positive
+15-01-2024,Twitter,#Python,Why is everyone talking about #Python lately?,Positive,469,49,everyone talking python lately,negative,Neutral
+25-02-2024,Instagram,#AI,Why is everyone talking about #AI lately?,Neutral,197,181,everyone talking ai lately,negative,Neutral
+18-06-2024,Instagram,#MachineLearning,I love learning about #MachineLearning!,Negative,368,75,love learning machinelearning,positive,Positive
+17-09-2024,Instagram,#Python,Can anyone recommend good resources for #Python?,Neutral,144,8,anyone recommend good resources python,positive,Positive
+17-08-2024,Instagram,#Python,I love learning about #Python!,Positive,232,200,love learning python,positive,Positive
+13-08-2024,Twitter,#CloudComputing,Why is everyone talking about #CloudComputing lately?,Positive,390,135,everyone talking cloudcomputing lately,negative,Neutral
+23-09-2024,Reddit,#Python,I love learning about #Python!,Neutral,59,1,love learning python,positive,Positive
+14-03-2024,Twitter,#DataScience,Why is everyone talking about #DataScience lately?,Positive,96,103,everyone talking datascience lately,negative,Neutral
+19-04-2024,Instagram,#DataScience,Can anyone recommend good resources for #DataScience?,Positive,8,197,anyone recommend good resources datascience,positive,Positive
+09-05-2024,Twitter,#Python,Why is everyone talking about #Python lately?,Neutral,291,67,everyone talking python lately,negative,Neutral
+29-03-2024,Reddit,#AI,Here's a cool project I did using #AI!,Neutral,328,195,heres cool project using ai,positive,Positive
+18-05-2024,Twitter,#DataScience,Why is everyone talking about #DataScience lately?,Neutral,149,193,everyone talking datascience lately,negative,Neutral
+11-04-2024,Twitter,#MachineLearning,I love learning about #MachineLearning!,Positive,235,36,love learning machinelearning,positive,Positive
+05-06-2024,Reddit,#AI,Not sure I understand #AI. Can someone explain?,Neutral,166,25,sure understand ai someone explain,positive,Positive
+02-07-2024,Reddit,#AI,Why is everyone talking about #AI lately?,Positive,235,127,everyone talking ai lately,negative,Neutral
+06-08-2024,Twitter,#DataScience,Here's a cool project I did using #DataScience!,Negative,363,163,heres cool project using datascience,positive,Positive
+03-05-2024,Twitter,#Python,Can anyone recommend good resources for #Python?,Positive,123,134,anyone recommend good resources python,positive,Positive
+20-02-2024,Reddit,#DataScience,I love learning about #DataScience!,Negative,393,57,love learning datascience,positive,Positive
+08-01-2024,Instagram,#DataScience,Here's a cool project I did using #DataScience!,Positive,377,14,heres cool project using datascience,positive,Positive
+27-10-2024,Instagram,#AI,I love learning about #AI!,Positive,323,105,love learning ai,positive,Positive
+18-03-2024,Instagram,#MachineLearning,Why is everyone talking about #MachineLearning lately?,Positive,121,84,everyone talking machinelearning lately,negative,Neutral
+06-08-2024,Twitter,#AI,Can anyone recommend good resources for #AI?,Positive,115,88,anyone recommend good resources ai,positive,Positive
+22-07-2024,Reddit,#AI,I love learning about #AI!,Negative,186,48,love learning ai,positive,Positive
+22-10-2024,Reddit,#CloudComputing,Can anyone recommend good resources for #CloudComputing?,Neutral,232,188,anyone recommend good resources cloudcomputing,positive,Positive
+08-06-2024,Instagram,#AI,I love learning about #AI!,Negative,32,94,love learning ai,positive,Positive
+21-02-2024,Twitter,#Python,Can anyone recommend good resources for #Python?,Positive,382,91,anyone recommend good resources python,positive,Positive
+16-03-2024,Instagram,#CloudComputing,Why is everyone talking about #CloudComputing lately?,Negative,438,38,everyone talking cloudcomputing lately,negative,Neutral
+23-07-2024,Twitter,#Python,Not sure I understand #Python. Can someone explain?,Neutral,290,132,sure understand python someone explain,positive,Positive
+25-08-2024,Instagram,#DataScience,I love learning about #DataScience!,Neutral,259,148,love learning datascience,positive,Positive
+26-05-2024,Twitter,#AI,Can anyone recommend good resources for #AI?,Negative,397,17,anyone recommend good resources ai,positive,Positive
+27-07-2024,Reddit,#DataScience,I love learning about #DataScience!,Negative,315,190,love learning datascience,positive,Positive
+25-07-2024,Instagram,#AI,Not sure I understand #AI. Can someone explain?,Neutral,431,191,sure understand ai someone explain,positive,Positive
+19-06-2024,Twitter,#CloudComputing,Not sure I understand #CloudComputing. Can someone explain?,Neutral,348,151,sure understand cloudcomputing someone explain,positive,Positive
+10-02-2024,Reddit,#CloudComputing,Not sure I understand #CloudComputing. Can someone explain?,Negative,218,76,sure understand cloudcomputing someone explain,positive,Positive
+21-03-2024,Twitter,#MachineLearning,Why is everyone talking about #MachineLearning lately?,Positive,165,190,everyone talking machinelearning lately,negative,Neutral
+17-10-2024,Twitter,#CloudComputing,I love learning about #CloudComputing!,Positive,339,24,love learning cloudcomputing,positive,Positive
+09-05-2024,Twitter,#CloudComputing,Why is everyone talking about #CloudComputing lately?,Negative,210,118,everyone talking cloudcomputing lately,negative,Neutral
+04-02-2024,Instagram,#DataScience,Can anyone recommend good resources for #DataScience?,Positive,291,183,anyone recommend good resources datascience,positive,Positive
+26-05-2024,Reddit,#MachineLearning,Can anyone recommend good resources for #MachineLearning?,Negative,265,51,anyone recommend good resources machinelearning,positive,Positive
+09-06-2024,Instagram,#Python,Why is everyone talking about #Python lately?,Negative,479,59,everyone talking python lately,negative,Neutral
+01-06-2024,Instagram,#CloudComputing,Can anyone recommend good resources for #CloudComputing?,Neutral,94,193,anyone recommend good resources cloudcomputing,positive,Positive
+18-01-2024,Instagram,#CloudComputing,Here's a cool project I did using #CloudComputing!,Neutral,356,189,heres cool project using cloudcomputing,positive,Positive
+01-10-2024,Twitter,#MachineLearning,I love learning about #MachineLearning!,Positive,286,17,love learning machinelearning,positive,Positive
+29-01-2024,Twitter,#Python,Why is everyone talking about #Python lately?,Positive,78,11,everyone talking python lately,negative,Neutral
+18-02-2024,Reddit,#MachineLearning,Here's a cool project I did using #MachineLearning!,Neutral,228,73,heres cool project using machinelearning,positive,Positive
+26-04-2024,Instagram,#DataScience,I love learning about #DataScience!,Neutral,235,41,love learning datascience,positive,Positive
+01-05-2024,Instagram,#CloudComputing,I love learning about #CloudComputing!,Positive,27,120,love learning cloudcomputing,positive,Positive
+21-01-2024,Twitter,#MachineLearning,Can anyone recommend good resources for #MachineLearning?,Positive,75,0,anyone recommend good resources machinelearning,positive,Positive
+01-05-2024,Instagram,#CloudComputing,I love learning about #CloudComputing!,Negative,254,151,love learning cloudcomputing,positive,Positive
+23-02-2024,Reddit,#CloudComputing,Not sure I understand #CloudComputing. Can someone explain?,Neutral,20,160,sure understand cloudcomputing someone explain,positive,Positive
+30-01-2024,Reddit,#Python,Why is everyone talking about #Python lately?,Negative,305,72,everyone talking python lately,negative,Neutral
+12-01-2024,Twitter,#CloudComputing,Here's a cool project I did using #CloudComputing!,Neutral,109,122,heres cool project using cloudcomputing,positive,Positive
+23-05-2024,Twitter,#Python,I love learning about #Python!,Negative,360,130,love learning python,positive,Positive
+27-07-2024,Twitter,#AI,I love learning about #AI!,Neutral,170,53,love learning ai,positive,Positive
+07-06-2024,Instagram,#AI,Can anyone recommend good resources for #AI?,Positive,66,4,anyone recommend good resources ai,positive,Positive
+18-10-2024,Instagram,#CloudComputing,I love learning about #CloudComputing!,Positive,468,69,love learning cloudcomputing,positive,Positive
+08-02-2024,Reddit,#DataScience,Here's a cool project I did using #DataScience!,Negative,171,50,heres cool project using datascience,positive,Positive
+25-02-2024,Reddit,#CloudComputing,Can anyone recommend good resources for #CloudComputing?,Negative,155,21,anyone recommend good resources cloudcomputing,positive,Positive
+03-07-2024,Instagram,#DataScience,Can anyone recommend good resources for #DataScience?,Positive,207,153,anyone recommend good resources datascience,positive,Positive
+28-09-2024,Reddit,#Python,I love learning about #Python!,Neutral,410,142,love learning python,positive,Positive
+28-09-2024,Reddit,#CloudComputing,Here's a cool project I did using #CloudComputing!,Neutral,209,184,heres cool project using cloudcomputing,positive,Positive
+21-05-2024,Twitter,#MachineLearning,Not sure I understand #MachineLearning. Can someone explain?,Positive,458,85,sure understand machinelearning someone explain,positive,Positive
+09-09-2024,Instagram,#MachineLearning,Here's a cool project I did using #MachineLearning!,Positive,44,119,heres cool project using machinelearning,positive,Positive
+24-06-2024,Instagram,#AI,Can anyone recommend good resources for #AI?,Positive,12,79,anyone recommend good resources ai,positive,Positive
+21-05-2024,Instagram,#CloudComputing,I love learning about #CloudComputing!,Negative,290,137,love learning cloudcomputing,positive,Positive
+13-09-2024,Twitter,#CloudComputing,Can anyone recommend good resources for #CloudComputing?,Negative,350,191,anyone recommend good resources cloudcomputing,positive,Positive
+08-09-2024,Instagram,#CloudComputing,I love learning about #CloudComputing!,Negative,30,55,love learning cloudcomputing,positive,Positive
+11-09-2024,Instagram,#CloudComputing,Can anyone recommend good resources for #CloudComputing?,Negative,278,5,anyone recommend good resources cloudcomputing,positive,Positive
+27-03-2024,Reddit,#AI,Can anyone recommend good resources for #AI?,Negative,151,106,anyone recommend good resources ai,positive,Positive
+30-03-2024,Instagram,#AI,Can anyone recommend good resources for #AI?,Negative,313,156,anyone recommend good resources ai,positive,Positive
+23-02-2024,Instagram,#CloudComputing,Why is everyone talking about #CloudComputing lately?,Positive,254,170,everyone talking cloudcomputing lately,negative,Neutral
+17-09-2024,Reddit,#Python,Here's a cool project I did using #Python!,Negative,20,125,heres cool project using python,positive,Positive
+10-08-2024,Twitter,#Python,Why is everyone talking about #Python lately?,Neutral,33,116,everyone talking python lately,negative,Neutral
+10-01-2024,Twitter,#CloudComputing,I love learning about #CloudComputing!,Negative,63,180,love learning cloudcomputing,positive,Positive
+06-02-2024,Twitter,#AI,Why is everyone talking about #AI lately?,Neutral,100,141,everyone talking ai lately,negative,Neutral
+23-06-2024,Reddit,#Python,Here's a cool project I did using #Python!,Negative,148,63,heres cool project using python,positive,Positive
+29-06-2024,Reddit,#AI,Here's a cool project I did using #AI!,Positive,381,112,heres cool project using ai,positive,Positive
+04-03-2024,Reddit,#CloudComputing,Not sure I understand #CloudComputing. Can someone explain?,Neutral,283,36,sure understand cloudcomputing someone explain,positive,Positive
+03-09-2024,Twitter,#DataScience,Here's a cool project I did using #DataScience!,Neutral,326,64,heres cool project using datascience,positive,Positive
+02-09-2024,Reddit,#Python,I love learning about #Python!,Positive,25,120,love learning python,positive,Positive
+23-04-2024,Reddit,#DataScience,Can anyone recommend good resources for #DataScience?,Neutral,424,199,anyone recommend good resources datascience,positive,Positive
+11-06-2024,Instagram,#CloudComputing,Why is everyone talking about #CloudComputing lately?,Neutral,144,194,everyone talking cloudcomputing lately,negative,Neutral
+21-08-2024,Twitter,#DataScience,Here's a cool project I did using #DataScience!,Positive,131,171,heres cool project using datascience,positive,Positive
+02-10-2024,Twitter,#AI,Not sure I understand #AI. Can someone explain?,Neutral,395,29,sure understand ai someone explain,positive,Positive
+12-08-2024,Twitter,#DataScience,Why is everyone talking about #DataScience lately?,Negative,358,165,everyone talking datascience lately,negative,Neutral
+24-05-2024,Instagram,#DataScience,Here's a cool project I did using #DataScience!,Neutral,131,50,heres cool project using datascience,positive,Positive
+26-06-2024,Twitter,#CloudComputing,Here's a cool project I did using #CloudComputing!,Negative,46,73,heres cool project using cloudcomputing,positive,Positive
+04-06-2024,Reddit,#Python,Here's a cool project I did using #Python!,Positive,467,1,heres cool project using python,positive,Positive
+10-04-2024,Instagram,#DataScience,Here's a cool project I did using #DataScience!,Positive,364,37,heres cool project using datascience,positive,Positive
+16-05-2024,Instagram,#DataScience,Can anyone recommend good resources for #DataScience?,Negative,183,96,anyone recommend good resources datascience,positive,Positive
+27-03-2024,Instagram,#MachineLearning,Can anyone recommend good resources for #MachineLearning?,Negative,434,13,anyone recommend good resources machinelearning,positive,Positive
+17-01-2024,Twitter,#Python,Here's a cool project I did using #Python!,Neutral,240,102,heres cool project using python,positive,Positive
+04-05-2024,Instagram,#CloudComputing,Not sure I understand #CloudComputing. Can someone explain?,Neutral,15,119,sure understand cloudcomputing someone explain,positive,Positive
+20-09-2024,Twitter,#DataScience,Here's a cool project I did using #DataScience!,Neutral,156,165,heres cool project using datascience,positive,Positive
+27-06-2024,Twitter,#CloudComputing,Here's a cool project I did using #CloudComputing!,Neutral,78,169,heres cool project using cloudcomputing,positive,Positive
+29-04-2024,Twitter,#AI,Here's a cool project I did using #AI!,Negative,332,161,heres cool project using ai,positive,Positive
+26-04-2024,Twitter,#CloudComputing,I love learning about #CloudComputing!,Neutral,448,175,love learning cloudcomputing,positive,Positive
+04-09-2024,Reddit,#Python,Why is everyone talking about #Python lately?,Neutral,181,5,everyone talking python lately,negative,Neutral
+07-02-2024,Reddit,#DataScience,Here's a cool project I did using #DataScience!,Positive,68,191,heres cool project using datascience,positive,Positive
+08-04-2024,Twitter,#MachineLearning,Here's a cool project I did using #MachineLearning!,Positive,422,6,heres cool project using machinelearning,positive,Positive
+25-04-2024,Reddit,#DataScience,Can anyone recommend good resources for #DataScience?,Neutral,464,200,anyone recommend good resources datascience,positive,Positive
+17-09-2024,Twitter,#MachineLearning,Not sure I understand #MachineLearning. Can someone explain?,Positive,292,167,sure understand machinelearning someone explain,positive,Positive
+30-08-2024,Reddit,#CloudComputing,Here's a cool project I did using #CloudComputing!,Positive,120,144,heres cool project using cloudcomputing,positive,Positive
+19-03-2024,Twitter,#Python,Here's a cool project I did using #Python!,Positive,62,109,heres cool project using python,positive,Positive
+14-04-2024,Instagram,#AI,Not sure I understand #AI. Can someone explain?,Negative,388,93,sure understand ai someone explain,positive,Positive
+28-06-2024,Instagram,#MachineLearning,I love learning about #MachineLearning!,Negative,16,5,love learning machinelearning,positive,Positive
+03-05-2024,Reddit,#MachineLearning,Here's a cool project I did using #MachineLearning!,Negative,489,27,heres cool project using machinelearning,positive,Positive
+07-07-2024,Reddit,#CloudComputing,Not sure I understand #CloudComputing. Can someone explain?,Neutral,59,42,sure understand cloudcomputing someone explain,positive,Positive
+02-07-2024,Reddit,#AI,Not sure I understand #AI. Can someone explain?,Positive,5,45,sure understand ai someone explain,positive,Positive
+24-05-2024,Reddit,#MachineLearning,I love learning about #MachineLearning!,Negative,55,57,love learning machinelearning,positive,Positive
+12-01-2024,Twitter,#Python,Here's a cool project I did using #Python!,Neutral,140,161,heres cool project using python,positive,Positive
+16-07-2024,Reddit,#DataScience,Not sure I understand #DataScience. Can someone explain?,Positive,182,104,sure understand datascience someone explain,positive,Positive
+12-03-2024,Reddit,#AI,Here's a cool project I did using #AI!,Negative,428,52,heres cool project using ai,positive,Positive
+24-05-2024,Twitter,#Python,Can anyone recommend good resources for #Python?,Positive,137,80,anyone recommend good resources python,positive,Positive
+19-04-2024,Instagram,#MachineLearning,I love learning about #MachineLearning!,Positive,129,5,love learning machinelearning,positive,Positive
+19-09-2024,Instagram,#DataScience,Why is everyone talking about #DataScience lately?,Negative,470,119,everyone talking datascience lately,negative,Neutral
+12-05-2024,Reddit,#DataScience,I love learning about #DataScience!,Neutral,268,55,love learning datascience,positive,Positive
+14-01-2024,Twitter,#MachineLearning,I love learning about #MachineLearning!,Positive,36,117,love learning machinelearning,positive,Positive
+15-01-2024,Instagram,#DataScience,Here's a cool project I did using #DataScience!,Negative,428,91,heres cool project using datascience,positive,Positive
+14-03-2024,Twitter,#MachineLearning,Why is everyone talking about #MachineLearning lately?,Negative,384,187,everyone talking machinelearning lately,negative,Neutral
+11-05-2024,Reddit,#MachineLearning,I love learning about #MachineLearning!,Positive,385,24,love learning machinelearning,positive,Positive
+31-01-2024,Twitter,#MachineLearning,Not sure I understand #MachineLearning. Can someone explain?,Negative,184,116,sure understand machinelearning someone explain,positive,Positive
+16-05-2024,Twitter,#AI,Not sure I understand #AI. Can someone explain?,Negative,378,132,sure understand ai someone explain,positive,Positive
+02-02-2024,Instagram,#DataScience,I love learning about #DataScience!,Positive,212,95,love learning datascience,positive,Positive
+25-10-2024,Twitter,#CloudComputing,Not sure I understand #CloudComputing. Can someone explain?,Positive,90,167,sure understand cloudcomputing someone explain,positive,Positive
+07-09-2024,Reddit,#MachineLearning,Can anyone recommend good resources for #MachineLearning?,Neutral,378,186,anyone recommend good resources machinelearning,positive,Positive
+27-04-2024,Twitter,#MachineLearning,Why is everyone talking about #MachineLearning lately?,Negative,388,158,everyone talking machinelearning lately,negative,Neutral
+26-01-2024,Instagram,#DataScience,I love learning about #DataScience!,Positive,463,136,love learning datascience,positive,Positive
+21-04-2024,Instagram,#MachineLearning,Here's a cool project I did using #MachineLearning!,Positive,406,101,heres cool project using machinelearning,positive,Positive
+19-10-2024,Twitter,#CloudComputing,Why is everyone talking about #CloudComputing lately?,Positive,485,20,everyone talking cloudcomputing lately,negative,Neutral
+22-09-2024,Reddit,#MachineLearning,Here's a cool project I did using #MachineLearning!,Neutral,16,111,heres cool project using machinelearning,positive,Positive
+15-08-2024,Instagram,#Python,Here's a cool project I did using #Python!,Negative,254,197,heres cool project using python,positive,Positive
+12-01-2024,Reddit,#DataScience,I love learning about #DataScience!,Negative,281,170,love learning datascience,positive,Positive
+13-09-2024,Twitter,#Python,Why is everyone talking about #Python lately?,Negative,397,24,everyone talking python lately,negative,Neutral
+21-06-2024,Reddit,#MachineLearning,Here's a cool project I did using #MachineLearning!,Positive,394,147,heres cool project using machinelearning,positive,Positive
+22-01-2024,Instagram,#CloudComputing,Not sure I understand #CloudComputing. Can someone explain?,Negative,77,51,sure understand cloudcomputing someone explain,positive,Positive
+17-09-2024,Twitter,#Python,Can anyone recommend good resources for #Python?,Negative,113,0,anyone recommend good resources python,positive,Positive
+04-06-2024,Reddit,#DataScience,Can anyone recommend good resources for #DataScience?,Positive,408,64,anyone recommend good resources datascience,positive,Positive
+04-07-2024,Instagram,#Python,Here's a cool project I did using #Python!,Negative,170,187,heres cool project using python,positive,Positive
+20-08-2024,Twitter,#MachineLearning,I love learning about #MachineLearning!,Neutral,17,77,love learning machinelearning,positive,Positive
+31-03-2024,Reddit,#MachineLearning,Why is everyone talking about #MachineLearning lately?,Positive,286,106,everyone talking machinelearning lately,negative,Neutral
+03-07-2024,Instagram,#Python,Why is everyone talking about #Python lately?,Positive,283,57,everyone talking python lately,negative,Neutral
+11-06-2024,Twitter,#DataScience,I love learning about #DataScience!,Positive,263,91,love learning datascience,positive,Positive
+08-03-2024,Reddit,#AI,I love learning about #AI!,Negative,426,36,love learning ai,positive,Positive
+05-05-2024,Reddit,#AI,Not sure I understand #AI. Can someone explain?,Negative,369,6,sure understand ai someone explain,positive,Positive
+26-10-2024,Reddit,#DataScience,Not sure I understand #DataScience. Can someone explain?,Positive,164,14,sure understand datascience someone explain,positive,Positive
+03-03-2024,Twitter,#AI,Why is everyone talking about #AI lately?,Negative,137,121,everyone talking ai lately,negative,Neutral
+05-06-2024,Reddit,#CloudComputing,Here's a cool project I did using #CloudComputing!,Positive,300,4,heres cool project using cloudcomputing,positive,Positive
+15-08-2024,Reddit,#MachineLearning,Why is everyone talking about #MachineLearning lately?,Neutral,93,145,everyone talking machinelearning lately,negative,Neutral
+05-01-2024,Instagram,#DataScience,Can anyone recommend good resources for #DataScience?,Negative,236,149,anyone recommend good resources datascience,positive,Positive
+28-08-2024,Reddit,#Python,Why is everyone talking about #Python lately?,Neutral,18,17,everyone talking python lately,negative,Neutral
+20-10-2024,Instagram,#MachineLearning,Not sure I understand #MachineLearning. Can someone explain?,Positive,434,159,sure understand machinelearning someone explain,positive,Positive
+01-06-2024,Reddit,#DataScience,I love learning about #DataScience!,Neutral,225,18,love learning datascience,positive,Positive
+13-01-2024,Reddit,#Python,Why is everyone talking about #Python lately?,Neutral,268,143,everyone talking python lately,negative,Neutral
+08-10-2024,Reddit,#Python,Not sure I understand #Python. Can someone explain?,Positive,358,152,sure understand python someone explain,positive,Positive
+09-03-2024,Twitter,#CloudComputing,I love learning about #CloudComputing!,Neutral,203,81,love learning cloudcomputing,positive,Positive
+03-03-2024,Instagram,#MachineLearning,Can anyone recommend good resources for #MachineLearning?,Neutral,166,13,anyone recommend good resources machinelearning,positive,Positive
+25-10-2024,Reddit,#CloudComputing,I love learning about #CloudComputing!,Positive,47,103,love learning cloudcomputing,positive,Positive
+10-01-2024,Instagram,#MachineLearning,Not sure I understand #MachineLearning. Can someone explain?,Positive,332,109,sure understand machinelearning someone explain,positive,Positive
+26-07-2024,Twitter,#AI,Can anyone recommend good resources for #AI?,Positive,104,53,anyone recommend good resources ai,positive,Positive
+17-02-2024,Instagram,#AI,Can anyone recommend good resources for #AI?,Positive,98,154,anyone recommend good resources ai,positive,Positive
+06-01-2024,Reddit,#AI,Here's a cool project I did using #AI!,Neutral,262,164,heres cool project using ai,positive,Positive
+28-09-2024,Instagram,#CloudComputing,Here's a cool project I did using #CloudComputing!,Positive,108,44,heres cool project using cloudcomputing,positive,Positive
+17-02-2024,Reddit,#Python,Not sure I understand #Python. Can someone explain?,Positive,443,61,sure understand python someone explain,positive,Positive
+05-04-2024,Twitter,#CloudComputing,Can anyone recommend good resources for #CloudComputing?,Negative,118,1,anyone recommend good resources cloudcomputing,positive,Positive
+24-06-2024,Reddit,#Python,Here's a cool project I did using #Python!,Negative,133,34,heres cool project using python,positive,Positive
+02-01-2024,Instagram,#Python,Why is everyone talking about #Python lately?,Neutral,178,27,everyone talking python lately,negative,Neutral
+04-06-2024,Twitter,#CloudComputing,I love learning about #CloudComputing!,Positive,27,184,love learning cloudcomputing,positive,Positive
+22-02-2024,Reddit,#MachineLearning,Not sure I understand #MachineLearning. Can someone explain?,Neutral,136,84,sure understand machinelearning someone explain,positive,Positive
+21-09-2024,Reddit,#DataScience,Why is everyone talking about #DataScience lately?,Negative,44,37,everyone talking datascience lately,negative,Neutral
+11-09-2024,Instagram,#Python,Here's a cool project I did using #Python!,Positive,167,67,heres cool project using python,positive,Positive
+20-02-2024,Reddit,#AI,Here's a cool project I did using #AI!,Negative,190,33,heres cool project using ai,positive,Positive
+02-09-2024,Instagram,#Python,Can anyone recommend good resources for #Python?,Positive,16,33,anyone recommend good resources python,positive,Positive
+21-01-2024,Instagram,#DataScience,I love learning about #DataScience!,Neutral,263,18,love learning datascience,positive,Positive
+10-01-2024,Twitter,#DataScience,Here's a cool project I did using #DataScience!,Negative,25,97,heres cool project using datascience,positive,Positive
+18-09-2024,Instagram,#AI,Not sure I understand #AI. Can someone explain?,Positive,388,5,sure understand ai someone explain,positive,Positive
+14-10-2024,Twitter,#MachineLearning,Can anyone recommend good resources for #MachineLearning?,Neutral,371,151,anyone recommend good resources machinelearning,positive,Positive
+18-04-2024,Reddit,#CloudComputing,Not sure I understand #CloudComputing. Can someone explain?,Neutral,231,14,sure understand cloudcomputing someone explain,positive,Positive
+08-04-2024,Twitter,#Python,Here's a cool project I did using #Python!,Neutral,89,128,heres cool project using python,positive,Positive
+07-10-2024,Twitter,#CloudComputing,I love learning about #CloudComputing!,Neutral,360,199,love learning cloudcomputing,positive,Positive
+24-03-2024,Instagram,#Python,I love learning about #Python!,Negative,367,103,love learning python,positive,Positive
+04-05-2024,Twitter,#AI,Why is everyone talking about #AI lately?,Neutral,138,175,everyone talking ai lately,negative,Neutral
+08-01-2024,Instagram,#Python,Here's a cool project I did using #Python!,Positive,38,27,heres cool project using python,positive,Positive
+01-08-2024,Twitter,#CloudComputing,Can anyone recommend good resources for #CloudComputing?,Neutral,5,170,anyone recommend good resources cloudcomputing,positive,Positive
+07-05-2024,Reddit,#CloudComputing,Here's a cool project I did using #CloudComputing!,Positive,116,186,heres cool project using cloudcomputing,positive,Positive
+27-04-2024,Twitter,#MachineLearning,I love learning about #MachineLearning!,Neutral,281,151,love learning machinelearning,positive,Positive
+14-07-2024,Twitter,#MachineLearning,Here's a cool project I did using #MachineLearning!,Neutral,347,171,heres cool project using machinelearning,positive,Positive
+29-07-2024,Reddit,#AI,Not sure I understand #AI. Can someone explain?,Neutral,308,39,sure understand ai someone explain,positive,Positive
+01-07-2024,Reddit,#Python,Why is everyone talking about #Python lately?,Neutral,430,156,everyone talking python lately,negative,Neutral
+14-07-2024,Twitter,#CloudComputing,Here's a cool project I did using #CloudComputing!,Negative,460,51,heres cool project using cloudcomputing,positive,Positive
+01-10-2024,Reddit,#MachineLearning,Here's a cool project I did using #MachineLearning!,Neutral,13,3,heres cool project using machinelearning,positive,Positive
+02-03-2024,Reddit,#DataScience,Why is everyone talking about #DataScience lately?,Neutral,454,34,everyone talking datascience lately,negative,Neutral
+12-06-2024,Reddit,#CloudComputing,Why is everyone talking about #CloudComputing lately?,Positive,248,145,everyone talking cloudcomputing lately,negative,Neutral
+18-09-2024,Twitter,#DataScience,Here's a cool project I did using #DataScience!,Neutral,493,23,heres cool project using datascience,positive,Positive
+09-02-2024,Reddit,#DataScience,Can anyone recommend good resources for #DataScience?,Positive,78,94,anyone recommend good resources datascience,positive,Positive
+07-03-2024,Reddit,#DataScience,I love learning about #DataScience!,Negative,132,26,love learning datascience,positive,Positive
+11-04-2024,Twitter,#DataScience,Why is everyone talking about #DataScience lately?,Negative,360,36,everyone talking datascience lately,negative,Neutral
+06-07-2024,Reddit,#DataScience,Not sure I understand #DataScience. Can someone explain?,Neutral,97,63,sure understand datascience someone explain,positive,Positive
+11-07-2024,Instagram,#DataScience,Why is everyone talking about #DataScience lately?,Positive,422,189,everyone talking datascience lately,negative,Neutral
+10-05-2024,Reddit,#AI,Not sure I understand #AI. Can someone explain?,Neutral,62,112,sure understand ai someone explain,positive,Positive
+06-06-2024,Twitter,#DataScience,I love learning about #DataScience!,Negative,47,98,love learning datascience,positive,Positive
+12-10-2024,Reddit,#Python,Here's a cool project I did using #Python!,Neutral,442,75,heres cool project using python,positive,Positive
+30-07-2024,Reddit,#CloudComputing,Not sure I understand #CloudComputing. Can someone explain?,Neutral,390,63,sure understand cloudcomputing someone explain,positive,Positive
+15-06-2024,Instagram,#Python,Not sure I understand #Python. Can someone explain?,Positive,250,86,sure understand python someone explain,positive,Positive
+14-05-2024,Instagram,#AI,Can anyone recommend good resources for #AI?,Neutral,153,182,anyone recommend good resources ai,positive,Positive
+26-05-2024,Instagram,#AI,Can anyone recommend good resources for #AI?,Positive,33,115,anyone recommend good resources ai,positive,Positive
+24-03-2024,Twitter,#DataScience,Here's a cool project I did using #DataScience!,Negative,232,92,heres cool project using datascience,positive,Positive
+17-09-2024,Reddit,#AI,Not sure I understand #AI. Can someone explain?,Negative,60,93,sure understand ai someone explain,positive,Positive
+22-05-2024,Reddit,#Python,Here's a cool project I did using #Python!,Negative,499,97,heres cool project using python,positive,Positive
+24-07-2024,Instagram,#AI,I love learning about #AI!,Neutral,248,55,love learning ai,positive,Positive
+11-05-2024,Reddit,#AI,I love learning about #AI!,Neutral,389,97,love learning ai,positive,Positive
+05-09-2024,Reddit,#DataScience,Can anyone recommend good resources for #DataScience?,Neutral,247,22,anyone recommend good resources datascience,positive,Positive
+02-09-2024,Reddit,#Python,Can anyone recommend good resources for #Python?,Positive,455,160,anyone recommend good resources python,positive,Positive
+05-08-2024,Reddit,#DataScience,Can anyone recommend good resources for #DataScience?,Positive,247,12,anyone recommend good resources datascience,positive,Positive
+30-05-2024,Twitter,#Python,Why is everyone talking about #Python lately?,Positive,177,190,everyone talking python lately,negative,Neutral
+20-02-2024,Instagram,#DataScience,Can anyone recommend good resources for #DataScience?,Neutral,463,168,anyone recommend good resources datascience,positive,Positive
+09-02-2024,Reddit,#DataScience,Why is everyone talking about #DataScience lately?,Positive,160,11,everyone talking datascience lately,negative,Neutral
+06-02-2024,Twitter,#Python,Here's a cool project I did using #Python!,Negative,266,136,heres cool project using python,positive,Positive
+26-04-2024,Reddit,#MachineLearning,Why is everyone talking about #MachineLearning lately?,Neutral,122,107,everyone talking machinelearning lately,negative,Neutral
+15-04-2024,Instagram,#AI,Not sure I understand #AI. Can someone explain?,Neutral,96,111,sure understand ai someone explain,positive,Positive
+15-03-2024,Instagram,#AI,Why is everyone talking about #AI lately?,Negative,163,20,everyone talking ai lately,negative,Neutral
+18-06-2024,Reddit,#Python,Can anyone recommend good resources for #Python?,Negative,186,150,anyone recommend good resources python,positive,Positive
+19-03-2024,Instagram,#AI,Not sure I understand #AI. Can someone explain?,Negative,465,22,sure understand ai someone explain,positive,Positive
+13-09-2024,Twitter,#AI,I love learning about #AI!,Negative,216,193,love learning ai,positive,Positive
+20-02-2024,Instagram,#AI,Here's a cool project I did using #AI!,Neutral,239,189,heres cool project using ai,positive,Positive
+31-07-2024,Instagram,#DataScience,Can anyone recommend good resources for #DataScience?,Neutral,193,155,anyone recommend good resources datascience,positive,Positive
+10-04-2024,Twitter,#MachineLearning,Can anyone recommend good resources for #MachineLearning?,Positive,262,183,anyone recommend good resources machinelearning,positive,Positive
+06-06-2024,Twitter,#MachineLearning,Why is everyone talking about #MachineLearning lately?,Positive,354,8,everyone talking machinelearning lately,negative,Neutral
+02-05-2024,Twitter,#MachineLearning,Can anyone recommend good resources for #MachineLearning?,Positive,360,17,anyone recommend good resources machinelearning,positive,Positive
+11-02-2024,Reddit,#Python,Here's a cool project I did using #Python!,Neutral,54,185,heres cool project using python,positive,Positive
+26-03-2024,Reddit,#DataScience,Why is everyone talking about #DataScience lately?,Neutral,362,17,everyone talking datascience lately,negative,Neutral
+25-05-2024,Twitter,#Python,Here's a cool project I did using #Python!,Neutral,160,83,heres cool project using python,positive,Positive
+13-09-2024,Instagram,#Python,Not sure I understand #Python. Can someone explain?,Neutral,427,128,sure understand python someone explain,positive,Positive
+29-08-2024,Reddit,#Python,Here's a cool project I did using #Python!,Negative,156,70,heres cool project using python,positive,Positive
+14-06-2024,Twitter,#DataScience,Why is everyone talking about #DataScience lately?,Negative,171,68,everyone talking datascience lately,negative,Neutral
+12-01-2024,Twitter,#AI,Not sure I understand #AI. Can someone explain?,Neutral,108,8,sure understand ai someone explain,positive,Positive
+12-09-2024,Instagram,#MachineLearning,I love learning about #MachineLearning!,Negative,302,70,love learning machinelearning,positive,Positive
+02-04-2024,Twitter,#DataScience,Why is everyone talking about #DataScience lately?,Positive,408,135,everyone talking datascience lately,negative,Neutral
+20-09-2024,Twitter,#MachineLearning,I love learning about #MachineLearning!,Neutral,360,144,love learning machinelearning,positive,Positive
+27-03-2024,Reddit,#MachineLearning,I love learning about #MachineLearning!,Positive,183,101,love learning machinelearning,positive,Positive
+17-07-2024,Instagram,#CloudComputing,Can anyone recommend good resources for #CloudComputing?,Negative,343,165,anyone recommend good resources cloudcomputing,positive,Positive
+26-07-2024,Instagram,#CloudComputing,I love learning about #CloudComputing!,Negative,104,174,love learning cloudcomputing,positive,Positive
+08-09-2024,Instagram,#AI,Not sure I understand #AI. Can someone explain?,Negative,318,59,sure understand ai someone explain,positive,Positive
+25-09-2024,Twitter,#MachineLearning,Not sure I understand #MachineLearning. Can someone explain?,Positive,198,4,sure understand machinelearning someone explain,positive,Positive
+15-08-2024,Instagram,#MachineLearning,I love learning about #MachineLearning!,Neutral,258,190,love learning machinelearning,positive,Positive
+29-03-2024,Twitter,#MachineLearning,I love learning about #MachineLearning!,Positive,129,31,love learning machinelearning,positive,Positive
+17-01-2024,Reddit,#Python,Can anyone recommend good resources for #Python?,Neutral,472,175,anyone recommend good resources python,positive,Positive
+03-01-2024,Reddit,#Python,Can anyone recommend good resources for #Python?,Negative,105,10,anyone recommend good resources python,positive,Positive
+21-08-2024,Reddit,#CloudComputing,I love learning about #CloudComputing!,Negative,268,140,love learning cloudcomputing,positive,Positive
+28-04-2024,Twitter,#MachineLearning,Why is everyone talking about #MachineLearning lately?,Negative,366,45,everyone talking machinelearning lately,negative,Neutral
